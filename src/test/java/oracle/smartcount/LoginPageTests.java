@@ -9,10 +9,10 @@ import org.testng.annotations.Test;
 
 import java.io.IOException;
 
-public class LoginPageTestCases extends TestBase{
+public class LoginPageTests extends TestBase{
     LoginPage loginPage;
     HomePage homePage;
-    public LoginPageTestCases() throws IOException {
+    public LoginPageTests() throws IOException {
         super();
     }
 
